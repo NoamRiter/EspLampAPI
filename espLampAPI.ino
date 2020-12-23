@@ -6,8 +6,8 @@
 #include <TimeLib.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "Millennium_Falcon2.4";
-const char* password = "B71B903683";
+const char* ssid = "";
+const char* password = "";
 
 
 static const char ntpServerName[] = "us.pool.ntp.org";
